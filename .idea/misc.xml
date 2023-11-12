@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/drawable/bg_ripple.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/drawable/ic_baseline_arrow_left_24.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/drawable/item_border.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/abc.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_calendar.xml" value="0.1296875" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_calendar_list.xml" value="0.2341485507246377" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_calendar_main.xml" value="0.25" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_custom_calendar.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_custom_timeline.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_dot_time_line.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_edit.xml" value="0.1296875" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_friend.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_group.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_group_calendar.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_group_calendar_add.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_main2.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_new_time.xml" value="0.23867753623188406" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_register.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_test.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_time_add.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_time_change.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_timeline.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/activity_timetable_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/calendar_cell.xml" value="0.1" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/dialog_fadd.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/dialog_timeline.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/dot_timeline_layout.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/edit_appbar.xml" value="0.1296875" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/fadd_dialog.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/fragment_tab.xml" value="0.1296875" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/friendlistid_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/grouplistid_item.xml" value="0.264" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/inner_table.xml" value="0.1296875" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/item.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/item_calendar_header.xml" value="0.1296875" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/item_day.xml" value="0.6282894736842105" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/item_day_empty.xml" value="0.1296875" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/item_groupcalendar.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/listview_item.xml" value="0.23867753623188406" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/main_tab.xml" value="0.1296875" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/myschedulce.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/myschedule.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/otherschedule.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/pop_item.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/table_header.xml" value="0.1296875" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/test.xml" value="0.264" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/time_box.xml" value="0.1296875" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/timeline_item.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/timeline_mine.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/timeline_other.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/layout/view_timetable.xml" value="0.1296875" />
+        <entry key="..\:/Users/samsung/AndroidStudioProjects/Room/app/src/main/res/menu/bottom_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
